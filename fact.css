@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.con{
+   
+        background-color: rgb(218, 129, 129);
+        color: rgb(14, 14, 14);
+        margin-left: 25%;
+        margin-right: 33%;
+        margin-top: 15%;
+        height: 30vh;
+        padding-left: 3%;
+        padding-top: 5%;
+        padding-bottom: 3%;
+        font-size: 20px;
+ 
+
+}
+#tu{
+    width: 150px;
+    height: 33px;
+    background-color: rgb(18, 18, 17);
+    color: rgb(250, 246, 246);
+    border-radius: 5px;
+
+}
+
+#id{
+    width: 250px;
+    height: 30px;
+}
